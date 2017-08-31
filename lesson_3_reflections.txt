@@ -7,3 +7,7 @@ well,when I did NOT work on my PC ,or there is a hurry task to cope with my frie
 3. Describe the differences between forks,clones,and branches.When would you use one instead of another?
 "forks" makes a copy from the server of Github to the server of Github..."clones" makes a copy in local machine ,wherever the source location is."branches" just generates a different version of project .
 so when I want to review other one's project ,I use fork.When I wanna make a copy to local,use clone.When I wanna try different idea,use branches.
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+track the process of project even if I didnot finish my task?
+
